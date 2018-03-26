@@ -5,7 +5,7 @@
 @section('content')
 
 <div class="container">
-	<h2>What is Laracarte?</h2>
+	<h2>What is {{config('app.name')}}?</h2>
 	<p>Laracarte est un clone de l'application <a href="https:https://github.com/Couldevlop/laracartet-tdn">laracate</a> </p>
 
 	<div class="row" >
