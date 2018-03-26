@@ -1,5 +1,5 @@
 
-@extends('layout.default')
+@extends('layout.default', ['title' =>'home'])
 
 
 @section('content')

@@ -1,12 +1,12 @@
 
-@extends('layout.default')
+@extends('layout.default', ['title' =>'about'])
 
 
 @section('content')
 
 <div class="container">
 	<h2>What is Laracarte?</h2>
-	<p>Laracarte est un clone de l'application <a href="https://laracarte.com">laracate</a> </p>
+	<p>Laracarte est un clone de l'application <a href="https:https://github.com/Couldevlop/laracartet-tdn">laracate</a> </p>
 
 	<div class="row" >
 		<div calss="col-md-6">
